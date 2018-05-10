@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("dnscrypt-blacklist-generator")]
-[assembly: AssemblyDescription("Utility to download and generate a black list of domains for dnscrypt-proxy from curated lists of malicious or advertising domains.")]
+[assembly: AssemblyDescription("Utility to download and generate a blacklist (and/or whitelist) of domains for dnscrypt-proxy from curated lists of malicious or advertising domains.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("williampuckering.com")]
 [assembly: AssemblyProduct("dnscrypt-blacklist-generator")]
